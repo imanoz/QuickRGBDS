@@ -41,9 +41,9 @@ First, you need a nice editor to manage your payloads inside an .asm file.
 - For Windows, [Notepad++](https://notepad-plus-plus.org/downloads/) is recommended, as well as a dark [theme](https://github.com/imanoz/QuickRGBDS/tree/main/npp%20themes) for Z80 Assembly (trust me your eyes will thank you later on).
 - For Linux, [VSCodium](https://vscodium.com/) is recommended.
 
-For a minimal example on how to create an ACE payload, see [HowTo.asm](https://github.com/imanoz/QuickRGBDS/blob/main/HowTo.asm)!
+For a minimal example on how to create a Z80-ASM script, see [HowTo.asm](https://github.com/imanoz/QuickRGBDS/blob/main/HowTo.asm)!
 
-For more advanced scripts you can take a look at [Generation 1 Pokemon payload collection](https://github.com/imanoz/Gen1PokeScripts).
+For more advanced scripts you can take a look at Pokemon Generation 1 [script collection](https://github.com/imanoz/Gen1PokeScripts).
 
 ----
 
