@@ -1,5 +1,6 @@
 # QuickRGBDS
-An RGBDS wrapper for Windows and Linux to quickly compile GB Z80 ACE payloads to HEX.
+
+An RGBDS wrapper for Windows and Linux that quickly translates Game Boy assembly code into a text representation of hexadecimal bytes.
 
 ----
 
@@ -11,7 +12,7 @@ Unzip all files and put them in the same folder.
 
 ### How to use
 
-Simply drag and drop your .asm files onto Loader.bat. It will generate a .hex file containing the compiled HEX payload in text format.
+Simply drag and drop your .asm files onto Loader.bat. It will generate a .hex file containing the compiled HEX code in text format.
 For even easier access, you can create a shortcut of Loader.bat and drag files on this instead.
 
 ### Warning
@@ -37,11 +38,11 @@ In Linux version, `CustomScript.asm` must be in the same directory as `compile.s
 
 ### New to RGBDS?
 
-First, you need a nice editor to manage your payloads inside an .asm file.
-- For Windows, [Notepad++](https://notepad-plus-plus.org/downloads/) is recommended, as well as a dark [theme](https://github.com/imanoz/QuickRGBDS/tree/main/npp%20themes) for Z80 Assembly (trust me your eyes will thank you later on).
+First, you need a nice editor to manage your code inside an .asm file.
+- For Windows, [Notepad++](https://notepad-plus-plus.org/downloads/) is recommended, as well as a dark [theme](https://github.com/imanoz/QuickRGBDS/tree/main/npp%20themes) for SM83 Assembly (trust me your eyes will thank you later on).
 - For Linux, [VSCodium](https://vscodium.com/) is recommended.
 
-For a minimal example on how to create a Z80-ASM script, see [HowTo.asm](https://github.com/imanoz/QuickRGBDS/blob/main/HowTo.asm)!
+For a minimal example on how to create a Game Boy assembly script, see [HowTo.asm](https://github.com/imanoz/QuickRGBDS/blob/main/HowTo.asm)!
 
 For more advanced scripts you can take a look at Pokemon Generation 1 [script collection](https://github.com/imanoz/Gen1PokeScripts).
 
