@@ -44,7 +44,7 @@ First, you need a nice editor to manage your code inside an .asm file.
 
 For a minimal example on how to create a Game Boy assembly script, see [HowTo.asm](https://github.com/imanoz/QuickRGBDS/blob/main/HowTo.asm)!
 
-For more advanced scripts you can take a look at Pokemon Generation 1 [script collection](https://github.com/imanoz/Gen1PokeScripts).
+For more advanced scripts you can take a look at Pokemon Generation 1 [script collection](https://github.com/imanoz/PokemonACE).
 
 ----
 
